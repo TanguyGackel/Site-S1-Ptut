@@ -1,0 +1,13 @@
+header{
+    background: indianred;
+}
+footer{
+    background: indianred;
+}
+a:hover{
+    color: darkred;
+}
+input#envoyer{
+    background-color: indianred;
+    border: solid darkred;
+}

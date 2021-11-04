@@ -1,0 +1,21 @@
+body, html{
+    background: #373131;
+    color: #a2a7ae;
+}
+header{
+    background: #4a0c0c;
+}
+footer{
+    background: #4a0c0c;
+}
+a{
+    color:#A2A7AE;
+}
+a:hover{
+    color: #130000;
+}
+input#envoyer{
+    background-color: #4a0c0c;
+    border: solid #130000;
+    color: #a2a7ae;
+}

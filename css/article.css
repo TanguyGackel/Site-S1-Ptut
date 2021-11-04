@@ -1,0 +1,13 @@
+section{
+    margin-left: 7%;
+}
+section article
+{
+    text-align: justify;
+}
+section *{
+    padding: 20px 10px 20px 10px;
+}
+section img{
+    width: 100%;
+}

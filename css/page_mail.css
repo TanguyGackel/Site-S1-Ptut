@@ -1,0 +1,25 @@
+section fieldset{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 100%;
+}
+input#envoyer{
+    margin-top: 50px;
+    width: 150px;
+    background-color: #E6E6FA;
+    border: solid #aaaaaa;
+    border-radius: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+section a {
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+}
+textarea{
+    resize: none;
+}

@@ -1,0 +1,13 @@
+header{
+    background: pink;
+}
+footer{
+    background: pink;
+}
+a:hover{
+    color: hotpink;
+}
+input#envoyer{
+    background-color: pink;
+    border: solid hotpink;
+ }

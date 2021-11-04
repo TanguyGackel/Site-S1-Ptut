@@ -1,0 +1,13 @@
+header{
+    background: darkseagreen;
+}
+footer{
+    background: darkseagreen;
+}
+a:hover{
+    color: forestgreen;
+}
+input#envoyer{
+    background-color: darkseagreen;
+    border: solid forestgreen;
+}

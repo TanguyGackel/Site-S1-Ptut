@@ -1,0 +1,13 @@
+header{
+    background: steelblue;
+}
+footer{
+    background: steelblue;
+}
+a:hover{
+    color: darkblue;
+}
+input#envoyer{
+    background-color: steelblue;
+    border: solid darkblue;
+}
